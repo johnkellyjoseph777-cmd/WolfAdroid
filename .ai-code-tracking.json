@@ -1,0 +1,341 @@
+{
+  "version": "1.0",
+  "records": [
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762308997850,
+      "startOffset": 12,
+      "endOffset": 44,
+      "codeContent": "libs.plugins.android.application",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762308997880,
+      "startOffset": 12,
+      "endOffset": 39,
+      "codeContent": "libs.plugins.kotlin.android",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762308997965,
+      "startOffset": 12,
+      "endOffset": 44,
+      "codeContent": "libs.plugins.android.application",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762308997991,
+      "startOffset": 12,
+      "endOffset": 39,
+      "codeContent": "libs.plugins.kotlin.android",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762308998260,
+      "startOffset": 12,
+      "endOffset": 39,
+      "codeContent": "libs.androidx.espresso.core",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309000978,
+      "startOffset": 12,
+      "endOffset": 39,
+      "codeContent": "libs.plugins.kotlin.compose",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001029,
+      "startOffset": 12,
+      "endOffset": 39,
+      "codeContent": "libs.plugins.kotlin.compose",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001141,
+      "startOffset": 12,
+      "endOffset": 47,
+      "codeContent": "libs.androidx.lifecycle.runtime.ktx",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001151,
+      "startOffset": 12,
+      "endOffset": 42,
+      "codeContent": "libs.androidx.activity.compose",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001161,
+      "startOffset": 12,
+      "endOffset": 37,
+      "codeContent": "libs.androidx.compose.bom",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001171,
+      "startOffset": 12,
+      "endOffset": 36,
+      "codeContent": "libs.androidx.compose.ui",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001201,
+      "startOffset": 12,
+      "endOffset": 43,
+      "codeContent": "libs.androidx.compose.material3",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001191,
+      "startOffset": 12,
+      "endOffset": 52,
+      "codeContent": "libs.androidx.compose.ui.tooling.preview",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001181,
+      "startOffset": 12,
+      "endOffset": 45,
+      "codeContent": "libs.androidx.compose.ui.graphics",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001213,
+      "startOffset": 12,
+      "endOffset": 37,
+      "codeContent": "libs.androidx.compose.bom",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001222,
+      "startOffset": 12,
+      "endOffset": 48,
+      "codeContent": "libs.androidx.compose.ui.test.junit4",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001234,
+      "startOffset": 12,
+      "endOffset": 44,
+      "codeContent": "libs.androidx.compose.ui.tooling",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762309001244,
+      "startOffset": 12,
+      "endOffset": 50,
+      "codeContent": "libs.androidx.compose.ui.test.manifest",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "C:/Users/LONE WOLF/AndroidStudioProjects/CapconecT/app/src/main/java/com/example/capconect/MainActivity.kt",
+      "timestamp": 1762380716131,
+      "startOffset": 576,
+      "endOffset": 613,
+      "codeContent": "_root_ide_package_.androidx.core.app.",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "C:/Users/LONE WOLF/AndroidStudioProjects/CapconecT/app/src/main/java/com/example/capconect/MainActivity.kt",
+      "timestamp": 1762380716154,
+      "startOffset": 500,
+      "endOffset": 539,
+      "codeContent": "import androidx.core.app.ActivityCompat",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/MainActivity.kt",
+      "timestamp": 1762380750888,
+      "startOffset": 616,
+      "endOffset": 672,
+      "codeContent": "androidx.compose.ui.layout.ApproachIntrinsicMeasureScope",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/MainActivity.kt",
+      "timestamp": 1762380751475,
+      "startOffset": 616,
+      "endOffset": 669,
+      "codeContent": "androidx.compose.ui.layout.ApproachLayoutModifierNode",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/MainActivity.kt",
+      "timestamp": 1762380751504,
+      "startOffset": 616,
+      "endOffset": 669,
+      "codeContent": "androidx.compose.ui.layout.ApproachLayoutModifierNode",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/MainActivity.kt",
+      "timestamp": 1762380751515,
+      "startOffset": 616,
+      "endOffset": 669,
+      "codeContent": "androidx.compose.ui.layout.ApproachLayoutModifierNode",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/MainActivity.kt",
+      "timestamp": 1762380751561,
+      "startOffset": 616,
+      "endOffset": 669,
+      "codeContent": "androidx.compose.ui.layout.ApproachLayoutModifierNode",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/MainActivity.kt",
+      "timestamp": 1762380751566,
+      "startOffset": 616,
+      "endOffset": 669,
+      "codeContent": "androidx.compose.ui.layout.ApproachLayoutModifierNode",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/MainActivity.kt",
+      "timestamp": 1762380751642,
+      "startOffset": 616,
+      "endOffset": 663,
+      "codeContent": "androidx.compose.ui.layout.ApproachMeasureScope",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/MainActivity.kt",
+      "timestamp": 1762380752350,
+      "startOffset": 616,
+      "endOffset": 667,
+      "codeContent": "android.app.appsearch.exceptions.AppSearchException",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "/dummy.kt",
+      "timestamp": 1762380771208,
+      "startOffset": 12,
+      "endOffset": 35,
+      "codeContent": "libs.androidx.appcompat",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    },
+    {
+      "filePath": "C:/Users/LONE WOLF/AndroidStudioProjects/CapconecT/app/src/main/java/com/example/capconect/MainActivity.kt",
+      "timestamp": 1762381206605,
+      "startOffset": 280,
+      "endOffset": 300,
+      "codeContent": "main_activity_layout",
+      "aiProbability": 90,
+      "aiTool": "Tabnine",
+      "detectionMethod": "REALTIME_SPEED_ANALYSIS",
+      "lineCount": 1
+    }
+  ],
+  "toolStats": {
+    "Tabnine": {
+      "usageCount": 30,
+      "totalLines": 30
+    }
+  }
+}
