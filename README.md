@@ -51,7 +51,7 @@ mutuellement\
 ⚙️ Installation et exécution
 1.	Cloner le projet :
     ``` bash
-    git clone https://github.com/ton-nom-utilisateur/DatingApp-Kotlin.git
+    git clone https://github.com/johnkellyjoseph777/capconnect-Kotlin.git
     ```
 2.	Ouvrir le projet dans Android Studio.\
 3.	Synchroniser Gradle et installer les dépendances.\
