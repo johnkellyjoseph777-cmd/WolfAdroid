@@ -1,4 +1,8 @@
 Capconnect -- Kotlin Dating App
+
+![Screen_recording_20251106_181706-2](https://github.com/user-attachments/assets/8eb81da0-99a3-4987-a441-77d0712a7567)
+
+
  Project Description
 **Capconnect** is a mobile dating app developed in
 Kotlin with Jetpack Compose.
